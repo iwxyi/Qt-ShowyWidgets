@@ -76,6 +76,16 @@ menu->exec();
 
 
 
+# 动画多选框
+
+仓库地址：[AniCheckBox](https://github.com/iwxyi/Qt-AniCheckBox)
+
+一个带切换动画的 CheckBox，没有其他特殊效果
+
+![CheckBox](gifs/checkbox.gif)
+
+
+
 ## 轮播图
 
 仓库地址：[SlideShow](https://github.com/iwxyi/Qt-SlideShow)
@@ -98,13 +108,34 @@ menu->exec();
 
 
 
+# 折线图
+
+仓库地址：[LineChart](https://github.com/iwxyi/Qt-LineChart)
+
+带动画、带交互的折线图：
+
+1. 动态增删数值
+2. 自适应显示坐标轴数值
+3. 鼠标悬浮显示十字对准线
+4. 鼠标靠近点自动贴附
+5. 支持直线与二次/三次贝塞尔曲线效果
+6. 自定义点的显示类型与大小
+7. 自适应点的数值显示位置
+8. 根据指定锚点缩放
+9. 平滑的横向移动
+10. 选中的纵向渐变效果
+
+![折线图](gifs/折线图.gif)
+
+
+
 ## 果冻滚动条
 
 仓库地址：[SlimScrollBar](https://github.com/iwxyi/Qt-SlimScrollBar)
 
 可以像弓弦一样拉出来，并且来回弹动的普通滚动条。
 
-![果冻条](README.assets/果冻条-1620894338823.gif)
+![果冻条](gifs/果冻条.gif)
 
 支持设置到任意垂直滚动条上，超简单使用方法：
 
